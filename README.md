@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dariusG82
-- 👀 I’m interested in ESP32/Arduino programing, Front-End
-- 🌱 I’m currently learning Front-End Java
+- 👀 I’m interested in ESP32/Arduino programing, Back-End
+- 🌱 I’m currently learning Back-End Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - darius.govedas@gmail.com
 
