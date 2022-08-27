@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dariusG82
-- 👀 I’m interested in ESP32/Arduino programing, Back-End
-- 🌱 I’m currently learning Back-End Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Darius Govedas
+- 👀 I’m interested in Java programing
+- 🌱 I’m currently learning Back-End Java (Spring, Spring Boot, Spring Security)
+- 🌱 I have some experience with ESP32/Arduino programing.
 - 📫 How to reach me - darius.govedas@gmail.com
 
 <!---
